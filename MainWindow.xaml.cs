@@ -24,5 +24,20 @@ namespace Regex_yanguzov
         {
             InitializeComponent();
         }
+
+        private void Add(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Edit(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Delete(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
